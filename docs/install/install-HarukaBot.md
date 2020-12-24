@@ -69,7 +69,7 @@ HarukaBot 基于 [NoneBot2](https://github.com/nonebot/nonebot2) 开发，因此
     ```
 
     ::: warning 注意
-    `nonebot_plugin_apscheduler` 必须比 `haruka_bot` 先导入。
+    `nonebot_plugin_apscheduler` 必须从 `haruka_bot` 先导入。
     :::
 
 4. 安装完成后重启 `NoneBot2 实例` 即可使用。
